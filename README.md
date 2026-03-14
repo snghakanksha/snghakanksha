@@ -30,7 +30,7 @@ Currently building my portfolio and looking for entry-level Data Analyst opportu
 - 42% of revenue is discount-driven — a potential business risk
 - Fall is the peak revenue season across all categories
 
-🔗 [View Project](your-github-project-link-here)
+🔗 [View Project](https://github.com/snghakanksha/customer-behaviour-analysis)
 
 ---
 
