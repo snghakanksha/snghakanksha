@@ -32,6 +32,19 @@ Currently building my portfolio and looking for entry-level Data Analyst opportu
 
 🔗 [View Project](https://github.com/snghakanksha/customer-behaviour-analysis)
 
+### 💳 UPI Pulse — Transaction Behaviour & Fraud Analysis
+> Analysed 250,000 UPI transactions to uncover user behaviour, 
+> fraud patterns and bank reliability
+
+**Tools used:** Python • PostgreSQL • Power BI  
+**Key findings:**
+- 1 in 20 UPI transactions fails — systemic bank infrastructure problem
+- WiFi carries the highest fraud risk at 0.23%
+- UPI peaks at 7PM — a clear post-work payment habit
+- Maharashtra, UP & Karnataka = 38.92% of all UPI volume
+
+🔗 [View Project](https://github.com/snghakanksha/upi-transaction-analysis)
+
 ---
 
 ## 📈 Currently
