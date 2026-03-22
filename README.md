@@ -55,7 +55,7 @@ Currently building my portfolio and looking for entry-level Data Analyst opportu
 ---
 
 ## 📬 Connect with me
-[[![LinkedIn]](https://www.linkedin.com/in/akankshasingh-data/)
+[LinkedIn](https://www.linkedin.com/in/akankshasingh-data/)
 
 ---
 *"Without data, you're just another person with an opinion."*
