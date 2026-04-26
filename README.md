@@ -2,7 +2,7 @@
 
 Data Analyst in the making. Based in Bengaluru.
 
-I don't just analyse data — I build systems around it.
+I don't just analyse data - I build systems around it.
 Started with Excel, moved to SQL and Python, now building
 end-to-end pipelines on Snowflake. Every project I've built
 has been because I wanted to understand how something actually
@@ -30,7 +30,7 @@ Currently open to Data Analyst roles.
 ### Retail Intelligence Platform
 *End-to-end ELT pipeline on Snowflake*
 
-Built a full data pipeline from scratch — raw CSV and JSON files
+Built a full data pipeline from scratch, raw CSV and JSON files
 all the way to business-ready analytics. Not a tutorial. Built it,
 broke it, fixed it, learned from it.
 
@@ -49,15 +49,15 @@ broke it, fixed it, learned from it.
 
 ---
 
-### UPI Pulse — Transaction Behaviour & Fraud Analysis
+### UPI Pulse - Transaction Behaviour & Fraud Analysis
 *250,000 UPI transactions analysed*
 
 Dug into real UPI transaction data to find patterns that actually
-mean something to a business — not just pretty charts.
+mean something to a business, not just pretty charts.
 
-- 1 in 20 UPI transactions fails — traced it to specific bank infrastructure
+- 1 in 20 UPI transactions fails, traced it to specific bank infrastructure
 - WiFi networks carry the highest fraud risk at 0.23%
-- UPI usage peaks at 7PM — post-work payment behaviour
+- UPI usage peaks at 7PM, post-work payment behaviour
 - Maharashtra, UP and Karnataka account for 38.92% of all volume
 
 **Stack:** Python · PostgreSQL · Power BI
@@ -72,8 +72,8 @@ mean something to a business — not just pretty charts.
 First project where I went beyond the data and asked
 "what would a business actually do with this finding?"
 
-- 42% of revenue is discount-driven — flagged as a business risk
-- 70% of customers are repeat buyers — loyalty segment worth targeting
+- 42% of revenue is discount-driven, flagged as a business risk
+- 70% of customers are repeat buyers, loyalty segment worth targeting
 - Fall is peak season across all categories
 
 **Stack:** Python · PostgreSQL · Power BI
@@ -84,7 +84,7 @@ First project where I went beyond the data and asked
 
 ## Currently
 
-Learning Snowflake properly — not just the syntax but
+Learning Snowflake properly, not just the syntax but
 understanding why things are designed the way they are.
 Also improving DAX for more complex Power BI reporting.
 
