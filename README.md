@@ -20,7 +20,7 @@ Currently open to Data Analyst roles.
 | **Cloud Warehouse** | Snowflake |
 | **Visualization** | Power BI, Tableau |
 | **Libraries** | Pandas, NumPy |
-| **Databases** | PostgreSQL |
+| **Databases** | PostgreSQL, MYSQL, SQLite |
 | **Other** | Excel, Jupyter, GitHub |
 
 ---
